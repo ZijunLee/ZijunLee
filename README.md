@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zijun Li</h1>
-<h3 align="center">A PhD student in Optimization from Humboldt University of Berlin (HUB)</h3>
+<h3 align="center">A PhD candidate in Optimization from Humboldt University of Berlin (HUB)</h3>
 
 - 🔭 I’m currently working on [using machine learning to address Multi-objective optimization problems](https://mathplus.de/research-2/application-areas/aa4-energy-transition/aa4-11/)
 
