@@ -1,6 +1,6 @@
 ## Hi, I'm Zijun Li
 
-Applied mathematician and ML scientist (PhD, Humboldt-Universität zu Berlin, 2026, *magna cum laude*), based in Berlin.
+Applied mathematician and ML scientist (PhD, Humboldt-Universität zu Berlin), based in Berlin.
 
 I work on **model selection and optimization for ML-driven decisions**, and on **careful evaluation**,
 from multi-objective hyperparameter tuning to LLM agents that verify their own evidence.
